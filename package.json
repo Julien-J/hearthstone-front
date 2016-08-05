@@ -1,0 +1,24 @@
+{
+  "name": "hearthstone-front",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Julien-J/hearthstone-front.git"
+  },
+  "author": "Julien Jouenne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Julien-J/hearthstone-front/issues"
+  },
+  "homepage": "https://github.com/Julien-J/hearthstone-front#readme",
+  "dependencies": {
+    "bower": "^1.7.9",
+    "gulp": "^3.9.1",
+    "gulp-server-livereload": "^1.8.2"
+  }
+}
